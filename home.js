@@ -1,0 +1,1 @@
+alert("Ogni riferimento a persona o cosa è puramente casuale, il tutto è SOLO a scopo di intrattenimento")
